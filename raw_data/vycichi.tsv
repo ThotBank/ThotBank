@@ -1,0 +1,5 @@
+ROOT	MatchID	Root	Number	MeaningFrench	Pages	DegreeCertainty	CptEgyRelation	CopticS	CopticS0	CopticB	CopticB0
+435	821	iw		chien	56	very_likely	same		ⲏⲩ		
+968	1805	wḥwḥ		aboiement	34	very_likely	same				ⲃⲉϩⲃⲉϩ
+971	1810	whr		chien	242	very_likely	same	ⲟⲩϩⲟⲣ		ⲟⲩϩⲟⲣ	
+971	1811	whr	pl	chien	242	very_likely	same	ⲟⲩϩⲟⲟⲣ, ⲟⲩϩⲱⲣ, ⲟⲩϩⲱⲱⲣ		ⲟⲩϩⲟⲟⲣ, ⲟⲩϩⲱⲣ, ⲟⲩϩⲱⲱⲣ	
