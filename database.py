@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Module for generating SQL data from raw_data.
 """
