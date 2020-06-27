@@ -1,0 +1,16 @@
+{
+  "author" : "Marwan Kilani and Tiago Tresoldi",
+  "citation" : "THOTBANK CITATION",
+  "description" : "THOTBANK DESCRIPTION",
+  "favicon" : "https://clts.clld.org/clld-static/images/favicon.ico",
+  "mainlink" : "https://thotbank.netlify.app/",
+  "output_path" : "_site",
+  "tables" : ["roots", "tla", "ccl", "vycichi", "osing"],
+  "title" : "ThotBank",
+
+  "roots_table" : ["ID", "FormEgyRoot"],
+  "tla_table" : ["ROOT", "TLAID", "TLAForm", "TLAEnglish", "TLADeutsch"],
+  "ccl_table" : ["ROOT", "CCLID", "CCLForm", "CCLMeaning"],
+  "vycichi_table" : ["ROOT", "MatchID", "Root", "Number", "MeaningFrench", "Pages", "DegreeCertainty", "CptEgyRelation", "CopticS", "CopticS0", "CopticBCopticB0"],
+  "osing_table" : ["ROOT", "MatchID", "Root", "Form", "NominalClass", "MeaningDeutsch", "Pages", "CopticS", "CopticB", "CopticA2", "CopticSf"]
+}
