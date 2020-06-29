@@ -6,7 +6,7 @@
   "mainlink" : "https://thotbank.netlify.app/",
   "output_path" : "_site",
   "tables" : ["roots", "tla", "ccl", "vycichi", "osing"],
-  "title" : "ThotBank",
+  "title" : "ThotBank 𓁟",
 
   "roots_table" : ["ID", "FormEgyRoot"],
   "tla_table" : ["ROOT", "TLAID", "TLAForm", "TLAEnglish", "TLADeutsch"],
