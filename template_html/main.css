@@ -7,9 +7,11 @@ body {
     background-color: #fdfdfd;
 }
 .page-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     background-color: #222;
     color: #ccc;
-    padding: 60px 0 30px;
 }
 .footer-copyright {
     color: #666;
